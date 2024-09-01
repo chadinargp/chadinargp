@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there Welcome to my GitHub Page 👋👋👋
+
+My name is Geraldi and I'm currently studying at [Jakarta Global University](https://jgu.ac.id) taking Computer Science 🖥️ major.
+
+I run my own [AS215379](https://bgp.he.net/AS215379) as a hobby and my learning network to understand more about BGP.
+
+I'm currently learning Web Development and DevOps for my hobbies
 
 <!--
 **chadinargp/chadinargp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
